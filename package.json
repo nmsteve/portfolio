@@ -1,0 +1,25 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" :"run server",
+     "server":"lite-server"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmsteve/portfolio.git"
+  },
+  "author": "Mwaura Njugi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nmsteve/portfolio/issues"
+  },
+  "homepage": "https://github.com/nmsteve/portfolio#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
